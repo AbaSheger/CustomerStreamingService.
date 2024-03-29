@@ -1,4 +1,5 @@
 Project Overview
+
 This project is a simple Spring Boot application designed to simulate a streaming service and customer management system. It utilizes Java as the primary programming language and Maven for dependency management.
 
 Classes
