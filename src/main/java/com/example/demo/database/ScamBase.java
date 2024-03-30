@@ -21,9 +21,9 @@ public class ScamBase {
         streamingServices.add(new StreamingService(2, "HBO", "HD", "99kr"));
         streamingServices.add(new StreamingService(3, "Amazon", "HD", "99kr"));
 
-        customers.add(new Customers(1, "Kalle", "Karlsson", "merebanglo@yahoo. com", streamingServices.get(0) ));
-        customers.add(new Customers(2, "Alex", "Karlsson", "alexanglo@yahoo. com", streamingServices.get(1) ));
-        customers.add(new Customers(3, "hana", "Karlsson", "hanaanglo@yahoo. com", streamingServices.get(2) ));
+        customers.add(new Customers(1, "Kalle", "Gustav", "kalex@gmail.com", streamingServices.get(0) ));
+        customers.add(new Customers(2, "Alex", "Karlsson", "alexk@live.com", streamingServices.get(1) ));
+        customers.add(new Customers(3, "Hana", "Karl", "hanak@gmail.com", streamingServices.get(2) ));
 
 
     }
